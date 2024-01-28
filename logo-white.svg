@@ -1,0 +1,17 @@
+<svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Front face of the cube -->
+    <path d="M30 10L60 0L90 10L60 20L30 10Z" fill="#4C40F7"/>
+    
+    <!-- Right face of the cube -->
+    <path d="M90 10L120 0L150 10L120 20L90 10Z" fill="#4C40F7"/>
+    
+    <!-- Left face of the cube -->
+    <path d="M30 10L0 0L30 20L60 10L30 10Z" fill="#4C40F7"/>
+    
+    <!-- Letters "Netra" -->
+    <text x="10" y="55" font-family="Arial" font-size="10" fill="#FF6800">N</text>
+    <text x="40" y="55" font-family="Arial" font-size="10" fill="#FF6800">e</text>
+    <text x="80" y="55" font-family="Arial" font-size="10" fill="#FF6800">t</text>
+    <text x="120" y="55" font-family="Arial" font-size="10" fill="#FF6800">r</text>
+    <text x="160" y="55" font-family="Arial" font-size="10" fill="#FF6800">a</text>
+</svg>
